@@ -8,7 +8,7 @@ body {
     align-items: center;
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), /* Camada com 70% de transparência */
-                url('AlbedoBase_XL_make_a_background_for_a_personal_portfolio_that_0.jpg'); /* Substitua pelo caminho da sua imagem */
+                url('img/AlbedoBase_XL_make_a_background_for_a_personal_portfolio_that_0.jpg'); /* Substitua pelo caminho da sua imagem */
     background-size: cover; /* Faz a imagem ocupar toda a área */
     background-position: center; /* Centraliza a imagem */
     color: #fff;
